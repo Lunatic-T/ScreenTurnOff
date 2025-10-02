@@ -1,5 +1,7 @@
 # ScreenTurnOff - A screen hiding tool made in Python!
 
+SHIT LOOKS LIKE IT BROKE, dont use it for macro for now 😭
+
 * F2: Toggle hiding screen
 
 * F3: Exit program
